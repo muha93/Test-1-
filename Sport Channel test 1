@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<-- The Sport Channel -->
+
+    <title>Sport24</title>
+	
+	<meta name="author" content="Muhannad" />
+	<meta name="description" Sport news="" />
+
+<!-- 123456 -->	
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	
+</head>
+<body>
+
+<!-- CONTENT -->
+
+	<div id="page">
+		<div id="logo">
+			<h1><a href="/" id="logoLink">My First Website</a></h1>
+		</div>
+		<div id="nav">
+			<ul>
+				<li><a href="#/home.html">Home</a></li>
+				<li><a href="#/about.html">About</a></li>
+				<li><a href="#/contact.html">Contact</a></li>
+			</ul>	
+		</div>
+		<div id="content">
+			<h2>Home</h2>
+			<p>
+				Hello and welcome to my page!
+			</p>
+			<p> 
+				Test 1 2 3 4 5  
+			</p>
+		</div>
+		<div id="footer">
+			<p>
+				Webpage made by <a href="/" target="_blank">[Muhannad]</a>
+			</p>
+		</div>
+	</div>
+</body>
+</html>
